@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "props_board")(type "KiCad")(uri "${KIPRJMOD}/props_board.kicad_sym")(options "")(descr ""))
+)
