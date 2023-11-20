@@ -1264,8 +1264,8 @@
     (property "Digikey Part No." "RMCF0603FT100RCT-ND" (at 170.18 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9dcc657-d6a8-45f8-99ec-c175d07cd510))
-    (pin "2" (uuid 671f4914-f55d-4d3d-9906-1b436744c576))
+    (pin "1" (uuid 17bbdb56-3991-4de2-b8c6-e43a39adfd4a))
+    (pin "2" (uuid f403c043-e220-49fb-9938-8223e5c4ff3c))
     (instances
       (project "props_board_v3"
         (path "/2045b4df-e960-493d-823c-9347bcfea953/29d2ffd5-402d-4aeb-a3f6-6081235b01c2"

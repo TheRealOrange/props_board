@@ -29,4 +29,7 @@ fp-info-cache
 *.csv
 
 # Lock files
-.lck
+*.lck
+
+# Gerber export directory
+*/gerber/

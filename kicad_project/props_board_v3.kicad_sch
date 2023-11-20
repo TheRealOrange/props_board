@@ -2928,7 +2928,7 @@
     (property "Datasheet" "~" (at 237.49 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Digikey Part No." "1276-1192-1-ND1276-1192-1-ND" (at 237.49 34.29 0)
+    (property "Digikey Part No." "1276-1192-1-ND" (at 237.49 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ff4e7bab-d7f4-41ff-b35d-bc5af12e9890))
